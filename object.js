@@ -3,7 +3,8 @@ let a={
     lname:"Patel",
     addres:{
         age:21,
-        city:"Varansi"
+        city:"Varansi",
+        pin:221011
     }
     
     }
