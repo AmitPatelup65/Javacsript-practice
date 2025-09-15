@@ -1,7 +1,6 @@
-let arr=[1,2,3];
-let  n=arr.slice(0,2)
-console.log(n);
-console.log(arr);
-
+let a=document.getElementById("ab")
+let b=document.getElementsByClassName("abc")
+console.log(b)
+console.log(a)
 
 
