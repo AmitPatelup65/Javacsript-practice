@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitPatelup65/Javacsript-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitPatelup65/Javacsript-practice/issues"
+  },
+  "homepage": "https://github.com/AmitPatelup65/Javacsript-practice#readme"
 }
