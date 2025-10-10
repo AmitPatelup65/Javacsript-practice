@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "express": "^5.1.0",
     "readline-sync": "^1.4.10"
   },
   "name": "javascript",
   "version": "1.0.0",
   "description": "",
   "main": "hello.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
