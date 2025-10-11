@@ -17,3 +17,7 @@ app.post('/home',(req,res)=>{
 app.listen(port,()=>{
     console.log(`Server IS Runnig : http://localhost:${port}`)
 })
+app.post('/login',(req,res)=>{
+    const{email,password}=req.body
+    res.send(`Email : ${email} password : ${password}`)
+})
