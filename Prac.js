@@ -5,7 +5,6 @@ app.use(express.json());
 app.get('/',(req,res)=>{
     const students = [
   { id: 1, name: "Amit", age: 22 },
- 
   { id: 2, name: "Priya", age: 21 },
   { id: 3, name: "Rahul", age: 23 },
   { id: 3, name: "Karan", age: 20 }
